@@ -40,13 +40,13 @@
 	<Model SystemSKU="Surface_Pro_X_H_1876" ProductName="SurfaceProX" DisplayName="Sufrace Pro X with SQ2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio" ProductName="SurfaceStudio" DisplayName="Surface Studio" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio_2_1707_Commercial" ProductName="Surface Studio 2" DisplayName="Surface Studio 2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
-    <Model SystemSKU="Surface_Laptop_Studio_1964" ProductName="SurfaceLaptopStudio" DisplayName="Surface Laptop Studio" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Pro_7+_1960" ProductName="SurfacePro7" DisplayName="Surface Pro 7+" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Pro_7+_with_LTE_Advanced_1961" ProductName="SurfacePro7+" DisplayName="Surface Pro 7+ LTE" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Go_3_1901" ProductName="SurfaceGo3" DisplayName="Surface Go 3 Consumer" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Go_3_1926" ProductName="SurfaceGo3" DisplayName="Surface Go 3 Commercial" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Go_3_2022" ProductName="SurfaceGo3" DisplayName="Surface Go 3 LTE" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Pro_2" ProductName="SurfacePro2" DisplayName="Surface Pro 2" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Pro_3" ProductName="SurfacePro3" DisplayName="Surface Pro 3" SupportedBuilds="1809,1903,1909,2004,2009" />
-    <Model SystemSKU="Surface_Pro_4" ProductName="SurfacePro4" DisplayName="Surface Pro 4" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Laptop_Studio_1964" ProductName="SurfaceLaptopStudio" DisplayName="Surface Laptop Studio" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Pro_7+_1960" ProductName="SurfacePro7" DisplayName="Surface Pro 7+" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Pro_7+_with_LTE_Advanced_1961" ProductName="SurfacePro7+" DisplayName="Surface Pro 7+ LTE" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Go_3_1901" ProductName="SurfaceGo3" DisplayName="Surface Go 3 Consumer" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Go_3_1926" ProductName="SurfaceGo3" DisplayName="Surface Go 3 Commercial" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Go_3_2022" ProductName="SurfaceGo3" DisplayName="Surface Go 3 LTE" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Pro_2" ProductName="SurfacePro2" DisplayName="Surface Pro 2" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Pro_3" ProductName="SurfacePro3" DisplayName="Surface Pro 3" SupportedBuilds="1809,1903,1909,2004,2009" />
+	<Model SystemSKU="Surface_Pro_4" ProductName="SurfacePro4" DisplayName="Surface Pro 4" SupportedBuilds="1809,1903,1909,2004,2009" />
 </Drivers>
